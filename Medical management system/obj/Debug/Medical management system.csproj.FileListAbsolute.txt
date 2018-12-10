@@ -1,0 +1,17 @@
+c:\users\gokun\source\repos\Medical management system\Medical management system\bin\Debug\Medical management system.exe.config
+c:\users\gokun\source\repos\Medical management system\Medical management system\bin\Debug\Medical management system.exe
+c:\users\gokun\source\repos\Medical management system\Medical management system\bin\Debug\Medical management system.pdb
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical management system.csprojAssemblyReference.cache
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.Form1.resources
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.Properties.Resources.resources
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical management system.csproj.GenerateResource.cache
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical management system.csproj.CoreCompileInputs.cache
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical management system.exe
+c:\users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical management system.pdb
+C:\Users\gokun\source\repos\Medical management system\Medical management system\bin\Debug\Database1.mdf
+C:\Users\gokun\source\repos\Medical management system\Medical management system\bin\Debug\Database1_log.ldf
+C:\Users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.DOCTOR.resources
+C:\Users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.doctor_usercontrol.resources
+C:\Users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.patient_usercontrol.resources
+C:\Users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.bill_usercontrol.resources
+C:\Users\gokun\source\repos\Medical management system\Medical management system\obj\Debug\Medical_management_system.settings_usercontrol.resources
